@@ -47,9 +47,8 @@ ul{
 .chef-border:hover{
   color: black;
   width:53em;
-
+  border-top: 0.5em solid white;
 }
-
 
 .web-nav{
     display:inline-block;
